@@ -36,5 +36,9 @@ out/
 ### VS Code ###
 .vscode/
 
+/src/main/resources/application-mail.yml
+/src/main/resources/application.yml
+
+
 ### Kotlin ###
 .kotlin
